@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocompletion", "Autocompletion\Autocompletion.csproj", "{0F8C7CEA-B2DB-4FFE-B038-5127DF3978DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocompletion.Domain", "Autocompletion.Domain\Autocompletion.Domain.csproj", "{2219F225-D8AB-4DA5-B78D-6CEFA6A6A955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocompletion.Tests", "Autocompletion.Tests\Autocompletion.Tests.csproj", "{C13BB740-C61A-453F-A031-9828D224AF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocompletion.TcpIpServer", "Autocompletion.TcpIpServer\Autocompletion.TcpIpServer.csproj", "{B380CCE6-2015-4BA9-8278-D13880D6FA5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autocompletion.TcpIpClient", "Autocompletion.TcpIpClient\Autocompletion.TcpIpClient.csproj", "{8A6AF93D-406E-427E-85B0-84FB6FA2B40B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F8C7CEA-B2DB-4FFE-B038-5127DF3978DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F8C7CEA-B2DB-4FFE-B038-5127DF3978DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F8C7CEA-B2DB-4FFE-B038-5127DF3978DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F8C7CEA-B2DB-4FFE-B038-5127DF3978DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2219F225-D8AB-4DA5-B78D-6CEFA6A6A955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219F225-D8AB-4DA5-B78D-6CEFA6A6A955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219F225-D8AB-4DA5-B78D-6CEFA6A6A955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219F225-D8AB-4DA5-B78D-6CEFA6A6A955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C13BB740-C61A-453F-A031-9828D224AF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C13BB740-C61A-453F-A031-9828D224AF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C13BB740-C61A-453F-A031-9828D224AF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C13BB740-C61A-453F-A031-9828D224AF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B380CCE6-2015-4BA9-8278-D13880D6FA5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B380CCE6-2015-4BA9-8278-D13880D6FA5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B380CCE6-2015-4BA9-8278-D13880D6FA5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B380CCE6-2015-4BA9-8278-D13880D6FA5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6AF93D-406E-427E-85B0-84FB6FA2B40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6AF93D-406E-427E-85B0-84FB6FA2B40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6AF93D-406E-427E-85B0-84FB6FA2B40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6AF93D-406E-427E-85B0-84FB6FA2B40B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

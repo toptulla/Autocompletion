@@ -1,0 +1,21 @@
+﻿20
+time 20
+person 19
+year 18
+way 17
+day 16
+thing 15
+main 14
+world 13
+say 12
+hand 11
+timer 10
+personality 9
+years 8
+wayout 7
+dayly 6
+things 5
+maintain 4
+worldwide 3
+saw 2
+heart 1
